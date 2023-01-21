@@ -361,6 +361,7 @@ https://console.cloud.yandex.ru/folders/b1g2s2g1u72k9c25um07/storage/buckets/met
 
 ## 26. Компонент "Роза ветров" для Data Lens
 https://github.com/juhnowski/wind_rose - рефакторинг, доработка
+Диаграммы ррозы ветров сейчас нет. Все типы описаны тут: https://cloud.yandex.ru/docs/datalens/visualization-ref/
  - аналитик
  - архитектор
  - UI/UX
