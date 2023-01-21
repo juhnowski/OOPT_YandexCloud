@@ -73,6 +73,11 @@ https://console.cloud.yandex.ru/folders/b1g2s2g1u72k9c25um07/storage/buckets/met
 Десктопное приложение Biblozero - необходим рефакторинг и перенос в облако
  https://console.cloud.yandex.ru/folders/b1g2s2g1u72k9c25um07/storage/buckets/meteo?key=%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0%2FBiblozero%2F
 
+Сайт
+http://www.kerzhenskiy.ru/biblioteka/
+
+Необходима облачная централизация, сервис в облаке один, фронтов несколько
+
  - UI/UX
  - фронтенд
  - бэкенд
