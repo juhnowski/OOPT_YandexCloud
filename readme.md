@@ -566,6 +566,7 @@ https://github.com/juhnowski/davis
 
 ## 35. Сервис наблюдений лаборанта Galina
 https://github.com/juhnowski/davis
+https://github.com/juhnowski/galina_import - импорт исторических данных
 
 ## 36. Флора болот
 https://github.com/juhnowski/florabolot
