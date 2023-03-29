@@ -560,3 +560,12 @@ http://www.kerzhenskiy.ru/press-tsentr/novosti/?ELEMENT_ID=4998 автомати
 
 ## 33. Интеграция с сайтом «Заповедное путешествие» 
 Требования уточняются
+
+## 34. Интеграция с метеостанцией Davis
+https://github.com/juhnowski/davis
+
+## 35. Сервис наблюдений лаборанта Galina
+https://github.com/juhnowski/davis
+
+## 36. Флора болот
+https://github.com/juhnowski/florabolot
