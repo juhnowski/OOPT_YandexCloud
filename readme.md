@@ -562,11 +562,11 @@ http://www.kerzhenskiy.ru/press-tsentr/novosti/?ELEMENT_ID=4998 автомати
 Требования уточняются
 
 ## 34. Интеграция с метеостанцией Davis
-https://github.com/juhnowski/davis - микросервис Davis
-https://github.com/juhnowski/davis_sender - загрузка накопленных данных
+- https://github.com/juhnowski/davis - микросервис Davis
+- https://github.com/juhnowski/davis_sender - загрузка накопленных данных
 ## 35. Сервис наблюдений лаборанта Galina
-https://github.com/juhnowski/davis - микросервис Galina 
-https://github.com/juhnowski/galina_import - импорт исторических данных
+- https://github.com/juhnowski/davis - микросервис Galina 
+- https://github.com/juhnowski/galina_import - импорт исторических данных
 
 ## 36. Флора болот
-https://github.com/juhnowski/florabolot
+- https://github.com/juhnowski/florabolot
